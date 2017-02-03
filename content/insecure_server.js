@@ -1,0 +1,1 @@
+var ranVar = "Dummy text";

@@ -1,0 +1,29 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "For me to practising Nodejs",
+  "main": "server.js",
+  "dependencies": {
+    "connect": "^3.4.1",
+    "formidable": "^1.0.17",
+    "node-static": "^0.7.7",
+    "raw-body": "^2.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "hotnode",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node"
+  },
+  "keywords": [
+    "Some",
+    "keywords",
+    "another",
+    "keywords"
+  ],
+  "author": "Ha Do",
+  "license": "ISC"
+}
